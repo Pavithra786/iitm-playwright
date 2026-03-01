@@ -1,0 +1,10 @@
+{
+  "name": "datadash-qa",
+  "version": "1.0.0",
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
